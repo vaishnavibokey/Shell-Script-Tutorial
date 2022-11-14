@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+
+
 #single line comment example
 
 echo "single line comment example using # "
